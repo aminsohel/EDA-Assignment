@@ -47,6 +47,8 @@ brew install postgresql
 
 In order to install the environment you can use the following commands:
 
+
+
 ```
 pyenv local 3.11.3
 python -m venv .venv
@@ -54,3 +56,22 @@ source .venv/bin/activate
 pip install --upgrade pip
 pip install -r requirements.txt
 ```
+### Task
+
+1. Create a new repo using this [template](https://github.com/spiced-academy/ds-eda-project-template).
+
+2. Through EDA/statistical analysis above please come up with **AT LEAST 3 insights** regarding the overall data. One should be geographical.
+
+3. In addition also come up with **AT LEAST 3 recommendations** for your client.
+### Clint
+Erin Robinson       | Buyer       | Invest in poor neighborhood, buying & selling, costs back + little profit, socially responsible
+###Data 
+1. The King County Housing Data about Home sales in King Country USA.
+### Visualization
+1.Matplotlib
+2. Seaborn
+3.Plotly
+### Recommendation
+1. Selecting Grade which can help to find out the price too.
+2. Price , Square lot, squire Living can give more details to select houses.
+3. Zipcode and Price
