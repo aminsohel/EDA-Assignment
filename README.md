@@ -74,4 +74,4 @@ Erin Robinson       | Buyer       | Invest in poor neighborhood, buying & sellin
 ### Recommendation
 1. Selecting Grade which can help to find out the price too.
 2. Price , Square lot, squire Living can give more details to select houses.
-3. Zipcode and Price
+3. Zipcode and Price to find location.
