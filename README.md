@@ -70,8 +70,10 @@ Erin Robinson       | Buyer       | Invest in poor neighborhood, buying & sellin
 ### Visualization
 1.Matplotlib
 2. Seaborn
-3.Plotly
+3.Plotly and More 
 ### Recommendation
-1. Selecting Grade which can help to find out the price too.
-2. Price , Square lot, squire Living can give more details to select houses.
-3. Zipcode and Price to find location.
+1. Selecting Low range houses at the begining.
+2. Selecting Grade which can help to find out the price too.
+3. Price , Square lot, squire Living can give more details to select houses.
+4. Bedrooms and Bathrooms comparing to the grade can be key point of sellcting houses.
+   
