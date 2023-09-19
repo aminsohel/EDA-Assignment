@@ -67,6 +67,12 @@ pip install -r requirements.txt
 Erin Robinson       | Buyer       | Invest in poor neighborhood, buying & selling, costs back + little profit, socially responsible
 ###Data 
 1. The King County Housing Data about Home sales in King Country USA.
+### Data Collection
+1. Data is collected from the EDA schena data base via DBeaver as two separate files named sales and Details.
+2. Than join the data table together depending on the same id column.
+3. Then make the csv file to work in Note book.
+### Data preparation
+Data preparation was done Panda and Numpy libraries and packages.
 ### Visualization
 1.Matplotlib
 2. Seaborn
